@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lombok-1.18.24">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/lombok-1.18.24.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-aop-5.3.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-beans-5.3.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-context-5.3.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-core-5.3.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spring-expression-5.3.23.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
